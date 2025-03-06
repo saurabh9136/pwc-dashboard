@@ -1,5 +1,6 @@
 # PwC Call Center Data Analysis Dashboard
 
+![](https://github.com/saurabh9136/pwc-dashboard/blob/main/image.jfif)
 ## Overview
 
 This dashboard provides an interactive analysis of PwC's call center data, helping to monitor key performance metrics, agent performance, and call trends. The dashboard includes various filters and visualizations for deeper insights.
