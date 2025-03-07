@@ -33,8 +33,8 @@ This dashboard provides an interactive analysis of PwC's call center data, helpi
 
 ## Technologies Used
 
-- Power BI / Tableau / Python (Specify your tool)
-- SQL / Excel for Data Processing (If applicable)
+- Power BI
+- Excel for Data Processing 
 
 ## Future Enhancements
 
@@ -44,6 +44,6 @@ This dashboard provides an interactive analysis of PwC's call center data, helpi
 
 ## Author
 
-Developed by [Your Name]
+Developed by Saurabh Giri
 
-Saurabh Giri
+
